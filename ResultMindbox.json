@@ -1,0 +1,14 @@
+{
+   "status": "Success",
+   "customer": {
+       "ids": {
+           "mindboxId": 201
+       },
+       "firstName": "Клиент",
+       "lastName": "Тестовый",
+       "email": "demo@mindbox.cloud",
+       "isEmailInvalid": false,
+       "changeDateTimeUtc": "2024-02-28T13:11:01.04Z",
+       "processingStatus": "Found"
+   }
+}
